@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1WFJGQ75zXPQRRW7ZTlhlrs3Lod26SeP2
 """
 
-!pip install yfinance pandas numpy matplotlib scikit-learn tensorflow -q
-
 import yfinance as yf
 import numpy as np
 import pandas as pd
